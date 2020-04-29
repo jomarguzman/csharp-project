@@ -1,0 +1,12 @@
+[
+  {
+    "entityType": "Brick__Equipment",
+    "entityName": "TestEntity",
+    "id": "TestEntity1"
+  },
+  {
+    "entityType": "Brick__Equipment",
+    "entityName": "TestEntity",
+    "id": "TestEntity2"
+  }
+]

@@ -1,0 +1,1 @@
+/Users/omar.guzman/Projects/Apollo.ERService.FT/Apollo.ERService.SpecflowTests/obj/Debug/Apollo.ERService.SpecflowTests.csprojAssemblyReference.cache

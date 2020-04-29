@@ -1,0 +1,9 @@
+[
+  {
+    "destinationEntityId": "TestEntity1",
+    "id": "TestRelationship1",
+    "relationshipName": "TestRelationship",
+    "relationshipType": "Brick__hasPart",
+    "sourceEntityId": "TestEntity2"
+  }
+]

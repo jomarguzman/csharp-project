@@ -1,0 +1,53 @@
+﻿QA Environment  - 
+ <appSettings>
+    <add key="ImsEndpoint" value="https://dv-qa.debinternal.cloud/idm/ims" />
+    <add key="InvalidImsEndpoint" value="https://uat-api.digitalvault.cloud/idm/ims" />
+    <add key="ImsClientId" value="apollo.ro.client" />
+    <add key="ImsClientSecret" value="VGh6NDNZeHhxdmVLVGhSM1VpVE1HSGtTdG1YQnZmRFg=" />
+    <add key="InvalidImsClientSecret" value="c2dhcmx3TGZLQVZ1Q3B5V3lMY2YxakxlZGl0dU1CdlA=" />
+    <add key="PrimaryUserName" value="apollo.er.testuser1" />
+    <add key="PrimaryUserPassword" value="test" />
+    <add key="SecondaryUsername" value="apollo.er.testuser2" />
+    <add key="SecondaryPassword" value="test" />
+    <add key="ImsScopes" value="apollo_read apollo_write" />
+    <add key="ACLEndpoint" value="https://dv-qa.debinternal.cloud/acl" />
+    <add key="ERApiEndpoint" value="https://dv-qa.debinternal.cloud/apollo" />
+    <add key="GraphApiEndpoint" value="https://dv-qa.debinternal.cloud/apollo/graph" />
+    <add key="FilesApiEndpoint" value="https://dv-qa.debinternal.cloud/apollo/files" />
+  </appSettings> 
+  
+ Dev Environment -   
+   <appSettings>
+    <add key="ImsEndpoint" value="https://dv-dev.debinternal.cloud/idm/ims" />
+    <add key="InvalidImsEndpoint" value="https://uat-api.digitalvault.cloud/idm/ims" />
+    <add key="ImsClientId" value="apollo.ro.client" />
+    <add key="ImsClientSecret" value="VGh6NDNZeHhxdmVLVGhSM1VpVE1HSGtTdG1YQnZmRFg=" />
+    <add key="InvalidImsClientSecret" value="c2dhcmx3TGZLQVZ1Q3B5V3lMY2YxakxlZGl0dU1CdlA=" />
+    <add key="PrimaryUserName" value="apollo.er.testuser1" />
+    <add key="PrimaryUserPassword" value="test" />
+    <add key="SecondaryUsername" value="apollo.er.testuser2" />
+    <add key="SecondaryPassword" value="test" />
+    <add key="ImsScopes" value="apollo_read apollo_write" />
+    <add key="ACLEndpoint" value="https://dv-dev.debinternal.cloud/acl" />
+    <add key="ERApiEndpoint" value="https://dv-dev.debinternal.cloud/apollo" />
+    <add key="GraphApiEndpoint" value="https://dv-dev.debinternal.cloud/apollo/graph" />
+    <add key="FilesApiEndpoint" value="https://dv-dev.debinternal.cloud/apollo/files" />
+  </appSettings>
+  
+ UAT Environment - 
+  <appSettings>
+    <add key="ImsEndpoint" value="https://uat-api.digitalvault.cloud/idm/ims" />
+    <add key="InvalidImsEndpoint" value="https://dv-qa.debinternal.cloud/idm/ims" />
+    <add key="ImsClientId" value="apollo.ro.client" />
+    <add key="ImsClientSecret" value="c2dhcmx3TGZLQVZ1Q3B5V3lMY2YxakxlZGl0dU1CdlA=" />
+    <add key="InvalidImsClientSecret" value="VGh6NDNZeHhxdmVLVGhSM1VpVE1HSGtTdG1YQnZmRFg=" />
+    <add key="PrimaryUserName" value="apollo.er.testuser1" />
+    <add key="PrimaryUserPassword" value="test" />
+    <add key="SecondaryUsername" value="apollo.er.testuser2" />
+    <add key="SecondaryPassword" value="test" />
+    <add key="ImsScopes" value="apollo_read apollo_write" />
+    <add key="ACLEndpoint" value="https://uat-api.digitalvault.cloud/acl" />
+    <add key="ERApiEndpoint" value="https://uat-api.digitalvault.cloud/apollo" />
+    <add key="GraphApiEndpoint" value="https://uat-api.digitalvault.cloud/apollo/graph" />
+    <add key="FilesApiEndpoint" value="https://uat-api.digitalvault.cloud/apollo/files" />
+  </appSettings>

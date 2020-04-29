@@ -1,0 +1,5 @@
+entityType,entityName,id
+string,string,string
+required,required,required
+Brick__Equipment,TestEntity,TestEntity1
+Brick__Equipment,TestEntity,TestEntity2

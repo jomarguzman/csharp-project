@@ -1,0 +1,4 @@
+id,relationshipType,relationshipName,destinationEntityId,sourceEntityId
+string,string,string,string,string
+required,required,optional,required,required
+TestRelationship1,Brick__hasPart,TestRelationship,TestEntity1,TestEntity2
